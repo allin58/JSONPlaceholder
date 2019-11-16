@@ -1,8 +1,8 @@
 {
   "pairs": [
-    { "id": 1, "BTC-USDT": "Post 1" },
-    { "id": 2, "BTC-ETH": "Post 2" },
-    { "id": 3, "ETH-USDT": "Post 3" }
+    { "id": 1, "ticker": "BTC-USDT" },
+    { "id": 2, "ticker": "BTC-ETH" },
+    { "id": 3, "ticker": "ETH-USDT" }
   ]
   
 }
